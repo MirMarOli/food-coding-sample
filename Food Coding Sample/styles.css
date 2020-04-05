@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    background-color: whitesmoke
+}
+
+verdana {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"
+}
+
+h2 {
+    color: salmon;
+    text-align: center; 
+}
+
+.ex1 {
+    padding-left: 200px;
+    justify-content: center;
+}
+
+mark {
+    color: lightpink;
+}
+
+strong {
+    color: salmon;
+}
+
+table {
+    border: none;
+}
+
+th {
+    text-align: center;
+    color: salmon;
+}
+
+a: link {
+    text-emphasis-color: salmon
+}
+
+a: visited {
+    color: lightsalmon
+}
+body section footer {
+}
